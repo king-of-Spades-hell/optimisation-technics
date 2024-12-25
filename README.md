@@ -27,6 +27,12 @@ Leverages second-order derivatives (Hessian) for faster convergence towards loca
 #### Quasi-Newton Methods
 Approximates the Hessian for optimization without computing it explicitly.
 
+## 📊 Visualization Plots are used to visualize:
+
+-Convergence over iterations.
+-Contour plots for 2D functions.
+-Learning rate effect on optimization performance.
+
 ---
 
 Stay tuned for more algorithms and enhancements!
